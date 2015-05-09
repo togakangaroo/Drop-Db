@@ -1,5 +1,9 @@
 A very simple nuget package that - when installed into Visual Studio - will add a `Drop-Db` command into the Visual Studio package manager.
 
+```powershell
+Install-Package PackageManager-Drop-Db
+```
+
 Usage:
 
 ```powershell
