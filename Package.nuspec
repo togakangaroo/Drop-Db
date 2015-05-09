@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PackageManager-Drop-Db</id>
+    <version>1.0.0</version>
+    <authors>gmauer@gmail.com</authors>
+    <owners>gmauer@gmail.com</owners>
+	<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+	<projectUrl>https://github.com/togakangaroo/Drop-Db</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Add a Drop-Db command to the visual studio package manager</description>
+    <releaseNotes></releaseNotes>
+    <tags>visual-studio package-mager console database database-management</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
