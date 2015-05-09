@@ -4,7 +4,7 @@
 #>
 param($installPath, $toolsPath, $package, $project)
 
-function global:Drop-lDb(
+function global:Drop-Db(
 	[Parameter(Mandatory=$true, ValueFromPipeline=$true)] $DatabaseName,
 	$ServerInstance = '(localdb)\v11.0'
 	) {
